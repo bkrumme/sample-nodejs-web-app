@@ -1,3 +1,0 @@
-﻿# simple-nodejs-web-app
-
-
